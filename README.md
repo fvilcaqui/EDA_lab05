@@ -72,7 +72,5 @@
         <li>https://www.eclipse.org/downloads/packages/release/2022-03/r/eclipse-ide-enterprise-java-and-web-developers</li>
         <li>https://algorithmtutor.com/Data-Structures/Tree/AVL-Trees/</li>
         <li>https://docs.oracle.com/javase/tutorial/java/generics/types.html</li>
-
-
    
 #
